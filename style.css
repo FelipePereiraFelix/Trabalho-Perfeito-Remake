@@ -1,0 +1,125 @@
+body{
+background-image: url(/images/rogstrix-background.gif);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100%;
+}
+
+
+h1{
+color:#e1d0f7;
+text-align: center;
+font-family: 'Courier New', Courier, monospace;
+}
+
+h2{
+align-items: center;
+color:#6f00ff;
+text-align: center;
+font-family: 'Courier New', Courier, monospace;
+}
+        
+
+.programar{
+    color:#00f7ff;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.computer{
+    color:#00f7ff;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.musga{
+    color:#00f7ff;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.vapor{
+    color:#00f7ff;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.gifs {
+    display: flex;
+    flex-wrap: wrap; /* Faz os GIFs quebrarem linha se necessário */
+    justify-content: center; /* Centraliza os GIFs */
+    align-items: center;
+    gap: 20px; /* Espaço entre os GIFs */
+    max-width: 90%; /* Evita que ultrapassem a tela */
+    margin: 0 auto; /* Centraliza no meio da página */
+}
+
+h3{
+    margin-top: 3%;
+    align-items: center;
+    color:#e1d0f7;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    }
+
+.linguagens {
+display: flex;
+flex-wrap: wrap; /* Faz os GIFs quebrarem linha se necessário */
+justify-content: center; /* Centraliza os GIFs */
+align-items: center;
+gap: 20px; /* Espaço entre os GIFs */
+max-width: 90%; /* Evita que ultrapassem a tela */
+margin: 0 auto; /* Centraliza no meio da página */
+}
+
+.py{
+    color:#00f7ff;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.re{
+    color:#00f7ff;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.mo{
+    color:#00f7ff;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.sql{
+    color:#00f7ff;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.dock{
+    color:#00f7ff;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.ne{
+    color:#00f7ff;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.db{
+    color:#00f7ff;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.post{
+    color:#00f7ff;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+
+
